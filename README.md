@@ -2,7 +2,7 @@
 
 I'm always looking to improve myself and evolve my skills with the goal of becoming a Web Full Stack Developer.
 
-- 🌱 I'm currently learning HTML, CSS, Javascript, Node.js and ReactJS.
+- 🌱 I'm currently learning HTML, CSS, Javascript, Node.js, MongoDb and ReactJS.
 - 👀 I'm looking for an job opportunity to start my career in the field.
 
 - See my LinkedIn: <a href="https://www.linkedin.com/in/riandk1/">riandk1</a>
