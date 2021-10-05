@@ -1,30 +1,27 @@
 **Hi everyone** 👋
 
-I'm always looking to improve myself and evolve my skills with the goal of becoming a Web Full Stack Developer.
+Enthusiast for the best web development technologies. I have experience in projects using Typescript, NodeJS and ReactJS. I am a student of the Full Stack Web Development Course at Programador BR, where I could learn in practice the most modern web development technologies. 
 
-- 🌱 I'm currently learning HTML, CSS, Javascript, Node.js, MongoDb and ReactJS.
-- 👀 I'm looking for an job opportunity to start my career in the field.
-
-- See my LinkedIn: <a href="https://www.linkedin.com/in/riandk1/">riandk1</a>
+<ul>
+ <li>:toolbox: I'm currently working on Pipetech.</li>
+ <li>:computer: I have experience with Typescript, Node.js and ReactJS</li>
+ <li>See my LinkedIn: <a href="https://www.linkedin.com/in/riandk1/">riandk1</a></li>
+</ul>
  
  <div>
   <a href="https://github.com/riandk1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riandk1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img weidth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandk1&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rian-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+ <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Rian-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rian-Node" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rian-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   ##
  
-<div> 
-  
-  
+<div align="center" >  
   <a href="https://www.linkedin.com/in/riandk1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
