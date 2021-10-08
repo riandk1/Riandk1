@@ -3,7 +3,7 @@
 Enthusiast for the best web development technologies. I have experience in projects using Typescript, NodeJS and ReactJS. I am a student of the Full Stack Web Development Course at Programador BR, where I could learn in practice the most modern web development technologies. 
 
 <ul>
- <li>:toolbox: I'm currently working on Pipetech.</li>
+ <li>:toolbox: I'm not currently working.</li>
  <li>:computer: I have experience with Typescript, Node.js and ReactJS</li>
  <li>See my LinkedIn: <a href="https://www.linkedin.com/in/riandk1/">riandk1</a></li>
 </ul>
