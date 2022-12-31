@@ -1,10 +1,10 @@
 **Hi everyone** 👋
 
-Enthusiast for the best web development technologies. I have experience in projects using JavaScript, Typescript, NodeJS, ReactJS, and React Native. I am a student of the Full Stack Web Development Course at Programador BR, where I could learn in practice the most modern web development technologies. 
+Self-taught programmer and enthusiast for the best development technologies. I've been in touch with JavaScript, Typescript, NodeJS, ReactJS, and React Native. Linux user and I use Arch btw.
 
 <ul>
- <li>:toolbox: I'm not currently working.</li>
- <li>:computer: I have experience with Typescript, Node.js, ReactJS, and React Native.</li>
+ <li>:briefcase: Available for new opportunities.</li>
+ <li>:penguin: I use Arch btw.</li>
  <li>See my LinkedIn: <a href="https://www.linkedin.com/in/riandk1/">riandk1</a></li>
 </ul>
  
