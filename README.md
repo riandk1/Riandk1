@@ -5,7 +5,7 @@ Self-taught programmer and enthusiast for the best development technologies. I'v
 <ul>
  <li>:briefcase: Available for new opportunities.</li>
  <li>:penguin: I use Arch btw.</li>
- <li>See my LinkedIn: <a href="https://www.linkedin.com/in/riandk1/">riandk1</a></li>
+ <li>See my <a href="https://www.linkedin.com/in/riandk1/">LinkedIn</a></li>
 </ul>
  
  <div>
