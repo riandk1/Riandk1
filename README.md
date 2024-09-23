@@ -6,6 +6,7 @@ Self-taught programmer and enthusiast for the best development technologies. I'v
  <li>:briefcase: Available for new opportunities.</li>
  <li>:penguin: I use Arch btw.</li>
  <li>See my <a href="https://www.linkedin.com/in/riandk1/">LinkedIn</a></li>
+ <li>💻 ReactJS | React Native | NodeJS | MongoDB | Javascript | Typescript | Git | GitHub | Linux | C | Python | Java | SQL</li>
 </ul>
  
  <div>
