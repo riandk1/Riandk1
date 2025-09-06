@@ -1,10 +1,10 @@
 **Hi everyone** 👋
 
-Self-taught programmer and enthusiast for the best development technologies. I've been in touch with JavaScript, Typescript, NodeJS, MongoDB, ReactJS, React Native, AWS, C, Java, Python, SQL/NoSQL, and some computer science topics like object oriented programming (OOP), algorithms and data structures through some web development courses on the internet and college. Linux user and I use Arch btw.
+Self-taught programmer and enthusiast for the best development technologies. I've been in touch with JavaScript, Typescript, NodeJS, MongoDB, ReactJS, React Native, AWS, C, Java, Python, SQL/NoSQL, and some computer science topics like object oriented programming (OOP), algorithms and data structures through some web development courses on the internet and college.
 
 <ul>
  <li>:briefcase: Available for new opportunities.</li>
- <li>:penguin: I use Arch btw.</li>
+ <li>:penguin: I use Linux.</li>
  <li>See my <a href="https://www.linkedin.com/in/riandk1/">LinkedIn</a></li>
  <li>💻 ReactJS | React Native | NodeJS | MongoDB | Javascript | Typescript | Git | GitHub | Linux | C | Python | Java | SQL</li>
 </ul>
