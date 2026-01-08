@@ -1,4 +1,4 @@
-Graduated in Systems Analysis and Development and interested in RISC-V and ARM architectures, Linux Kernel, and open-source tools.
+Graduated in Systems Analysis and Development. Interested in RISC-V and ARM architectures, Linux Kernel, and open-source tools.
  
   ##
  
