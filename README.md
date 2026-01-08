@@ -1,21 +1,5 @@
-**Hi everyone** 👋
-
-Self-taught programmer and enthusiast for the best development technologies. I've been in touch with JavaScript, Typescript, NodeJS, MongoDB, ReactJS, React Native, AWS, C, Java, Python, SQL/NoSQL, and some computer science topics like object oriented programming (OOP), algorithms and data structures through some web development courses on the internet and college.
-
-<ul>
- <li>:briefcase: Available for new opportunities.</li>
- <li>:penguin: I use Linux.</li>
- <li>See my <a href="https://www.linkedin.com/in/riandk1/">LinkedIn</a></li>
- <li>💻 ReactJS | React Native | NodeJS | MongoDB | Javascript | Typescript | Git | GitHub | Linux | C | Python | Java | SQL</li>
-</ul>
+Graduated in Systems Analysis and Development and interested in RISC-V and ARM architectures, Linux Kernel, and open-source tools.
  
- <div>
-  <a href="https://github.com/riandk1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riandk1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img weidth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandk1&layout=compact&langs_count=7&theme=tokyonight"/>
- </div>
- <div style="display: inline_block" align="center"><br>
-  
   ##
  
 <div align="center" >  
